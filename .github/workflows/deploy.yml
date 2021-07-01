@@ -1,8 +1,12 @@
-# 执行这个 Actions 可以发布代码带中央仓库
+﻿# 执行这个 Actions 可以发布代码带中央仓库
 name: deploy
 
 on:
   workflow_dispatch:
+
+  release:
+    types:
+      - created
       
 jobs:
   build:
