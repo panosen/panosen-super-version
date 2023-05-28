@@ -74,3 +74,24 @@ Panosen Super Version
         </dependencies>
     </dependencyManagement>
 ```
+
+
+## JDK 11 及以上
+```xml
+    <!-- https://mvnrepository.com/artifact/org.apache.tomcat/tomcat-jdbc -->
+    <dependency>
+        <groupId>org.apache.tomcat</groupId>
+        <artifactId>tomcat-jdbc</artifactId>
+        <version>10.1.9</version>
+    </dependency>
+```
+
+## JDK 8 及以上
+```xml
+    <!-- https://mvnrepository.com/artifact/org.apache.tomcat/tomcat-jdbc -->
+    <dependency>
+        <groupId>org.apache.tomcat</groupId>
+        <artifactId>tomcat-jdbc</artifactId>
+        <version>10.1.9</version>
+    </dependency>
+```
