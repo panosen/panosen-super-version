@@ -5,7 +5,7 @@
 
     <groupId>com.panosen</groupId>
     <artifactId>super-version</artifactId>
-    <version>1.6.1</version>
+    <version>1.6.2</version>
 
     <parent>
         <groupId>com.panosen</groupId>
@@ -30,13 +30,13 @@
             <dependency>
                 <groupId>org.apache.tomcat.embed</groupId>
                 <artifactId>tomcat-embed-websocket</artifactId>
-                <version>10.1.10</version>
+                <version>10.1.11</version>
             </dependency>
 
             <dependency>
                 <groupId>com.google.guava</groupId>
                 <artifactId>guava</artifactId>
-                <version>32.1.1-jre</version>
+                <version>32.1.2-jre</version>
             </dependency>
             <dependency>
                 <groupId>com.google.code.gson</groupId>
@@ -60,7 +60,7 @@
             <dependency>
                 <groupId>com.mysql</groupId>
                 <artifactId>mysql-connector-j</artifactId>
-                <version>8.0.33</version>
+                <version>8.1.0</version>
             </dependency>
 
             <!--CloseableHttpClient-->
@@ -73,7 +73,7 @@
             <dependency>
                 <groupId>org.apache.commons</groupId>
                 <artifactId>commons-lang3</artifactId>
-                <version>3.12.0</version>
+                <version>3.13.0</version>
             </dependency>
 
             <dependency>
@@ -91,7 +91,7 @@
             <dependency>
                 <groupId>io.netty</groupId>
                 <artifactId>netty-all</artifactId>
-                <version>4.1.94.Final</version>
+                <version>4.1.96.Final</version>
             </dependency>
 
         </dependencies>
