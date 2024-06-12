@@ -37,7 +37,7 @@ Panosen Super Version
             <dependency>
                 <groupId>org.springframework.boot</groupId>
                 <artifactId>spring-boot-dependencies</artifactId>
-                <version>2.6.0</version>
+                <version>2.7.18</version>
                 <type>pom</type>
                 <scope>import</scope>
             </dependency>
